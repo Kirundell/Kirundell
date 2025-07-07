@@ -13,7 +13,6 @@
 ### About me
 - #### I am a 4th year student of the Moscow Aviation Institute :airplane:
 - #### I'm interested in ML, DL :books:
-- #### Know about my experiences [CV](https://github.com/Kirundell/Kirundell/blob/main/Shilov%20Kirill%20CV.pdf) :page_with_curl:
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
