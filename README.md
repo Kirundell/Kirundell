@@ -10,10 +10,6 @@
   </a>
 </div>
 
-### About me
-- #### I am a 4th year student of the Moscow Aviation Institute :airplane:
-- #### I'm interested in ML, DL :books:
-
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 title="python" width="40" height="40"/>&nbsp;
