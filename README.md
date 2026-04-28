@@ -6,26 +6,15 @@
 
 
 ### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-title="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-title="sklearn" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-title="torch" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-title="pandas" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
-title="numpy" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
-title="matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-title="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
-title="selenium" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-title="linux" width="40" height="40"/>&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=for-the-badge&logo=plotly)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Selenium](https://img.shields.io/badge/-Selenium-000?style=for-the-badge&logo=selenium)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
           
